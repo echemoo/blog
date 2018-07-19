@@ -1,38 +1,10 @@
 ---
-title: Hello World
+title: 创建个人博客
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+想要有自己的独立站点和独立博客很久了，一直拖延着，迟迟没能启动。现在这个域名2015年购买，于今也三年了，一直在coming soon状态，今天突发奇想购买了另外一个与GIS相关的域名gishub.net，趁着一股兴奋劲，把博客和个人主页给做起来。
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+### 后续的一些计划
+>> 个人博客环境维护起来
+>> 主页构建起来
+>> gishub上构建一些简单的应用
